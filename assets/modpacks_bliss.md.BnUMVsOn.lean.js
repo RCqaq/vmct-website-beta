@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as t}from"./chunks/framework.Cu-80aEg.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modpacks/bliss.md","filePath":"modpacks/bliss.md","lastUpdated":1714185524000}'),a={name:"modpacks/bliss.md"};function o(c,r,d,n,p,i){return t(),e("div")}const _=s(a,[["render",o]]);export{m as __pageData,_ as default};

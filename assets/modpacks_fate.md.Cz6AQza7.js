@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Cu-80aEg.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modpacks/fate.md","filePath":"modpacks/fate.md","lastUpdated":1714185524000}'),o={name:"modpacks/fate.md"};function s(c,r,d,n,p,f){return a(),t("div")}const i=e(o,[["render",s]]);export{_ as __pageData,i as default};

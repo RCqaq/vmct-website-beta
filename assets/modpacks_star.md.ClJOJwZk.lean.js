@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./chunks/framework.Cu-80aEg.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modpacks/star.md","filePath":"modpacks/star.md","lastUpdated":1714185524000}'),s={name:"modpacks/star.md"};function r(o,c,d,n,p,m){return e(),a("div")}const f=t(s,[["render",r]]);export{i as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Cu-80aEg.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"modpacks/sb3.md","filePath":"modpacks/sb3.md","lastUpdated":1714185524000}'),s={name:"modpacks/sb3.md"};function o(c,r,d,n,p,m){return a(),t("div")}const f=e(s,[["render",o]]);export{i as __pageData,f as default};
